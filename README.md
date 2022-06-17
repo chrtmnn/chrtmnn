@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chrtmnn
-- 👀 I’m interested in Boccia.
+- powered by metal, gin & diesel
 
 <!---
 chrtmnn/chrtmnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
